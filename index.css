@@ -11,3 +11,34 @@
 ul {
   list-style: none;
 }
+img {
+  width: 30px;
+  border: 1px solid black; 
+}
+li {
+  border: none;
+  font-size: 1rem;
+  font-weight: 600;
+  color: rgb(92, 114, 238);
+  cursor: pointer;
+  justify-content: space-between;
+  align-items: center;
+  text-decoration: none;
+  padding: 10px;
+  border: 1px solid black; 
+}
+
+a{
+  padding: 10px;
+}
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
